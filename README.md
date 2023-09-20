@@ -7,6 +7,7 @@ The objective of this project is to create a personal homepage that effectively 
 
 Screenshot
 Homepage Screenshot
+![image](https://github.com/zexigong-ne/zexigong-ne.github.io/assets/145535662/5e8914b0-a4aa-4fe3-8041-94350f7684c9)
 
 
 Instructions to Build
