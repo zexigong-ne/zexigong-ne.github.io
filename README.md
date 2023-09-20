@@ -2,6 +2,9 @@
 Author
 Zexi Gong
 
+Class Link
+https://johnguerra.co/classes/webDevelopment_fall_2023/
+
 Project Objective
 The objective of this project is to create a personal homepage that effectively highlights my passions, skills, professional experience, and aspirations. The homepage provides visitors with a comprehensive understanding of my profile and aims to foster potential collaborations and opportunities.
 
