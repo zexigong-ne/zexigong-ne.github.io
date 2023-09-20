@@ -64,6 +64,15 @@ body {
     font-size: 1.1em;
     line-height: 1.6;
   }
+
+  .GSoC-photo {
+    overflow: hidden;
+    margin: 0 auto 20px;
+  }
+  
+  .GSoC-photo img {
+    text-align: center;
+  }
   
   .footer {
     background: #333;

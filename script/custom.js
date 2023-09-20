@@ -11,5 +11,5 @@ if (currentTime >= 5 && currentTime < 12) {
 }
 
 const greetingElement = document.createElement('div');
-greetingElement.innerHTML = `<h2>${welcomeMessage}</h2>`;
-document.querySelector('.content .container').insertBefore(greetingElement, document.querySelector('.content .container h2'));
+greetingElement.innerHTML = `<h3>${welcomeMessage}</h3>`;
+document.querySelector('.header .container').insertBefore(greetingElement, document.querySelector('.header .container h1'));
