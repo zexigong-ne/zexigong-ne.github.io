@@ -1,12 +1,15 @@
 # zexigong-ne.github.io
-Author
+Author:
 Zexi Gong
 
-Class Link
+Class Link:
 https://johnguerra.co/classes/webDevelopment_fall_2023/
 
-Project Objective
+Project Objective:
 The objective of this project is to create a personal homepage that effectively highlights my passions, skills, professional experience, and aspirations. The homepage provides visitors with a comprehensive understanding of my profile and aims to foster potential collaborations and opportunities.
+
+Design Document:
+https://docs.google.com/document/d/1X8gTbP6aUb8sF76H7SPf4MaRE4aeoR51/edit?usp=sharing&ouid=113479366440585478490&rtpof=true&sd=true
 
 Screenshot
 Homepage Screenshot
