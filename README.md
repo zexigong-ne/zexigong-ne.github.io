@@ -12,6 +12,7 @@ Design Document:
 https://docs.google.com/document/d/1X8gTbP6aUb8sF76H7SPf4MaRE4aeoR51/edit?usp=sharing&ouid=113479366440585478490&rtpof=true&sd=true
 
 Screenshot
+// Need more pictures of your websites other than the homepage.
 Homepage Screenshot
 ![image](https://github.com/zexigong-ne/zexigong-ne.github.io/assets/145535662/5e8914b0-a4aa-4fe3-8041-94350f7684c9)
 
