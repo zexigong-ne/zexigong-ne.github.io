@@ -2,6 +2,8 @@
 Author:
 Zexi Gong
 
+// Need a package.json file listing all the dependencies of the project.
+
 Class Link:
 https://johnguerra.co/classes/webDevelopment_fall_2023/
 
