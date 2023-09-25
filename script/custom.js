@@ -1,3 +1,4 @@
+// Suggestion: Need eslint config file.
 // Display a welcome message based on the time of the day
 const currentTime = new Date().getHours();
 let welcomeMessage = '';
